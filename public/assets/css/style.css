@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Alegreya+Sans|Nixie+One|PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Alegreya+Sans|Nixie+One&display=swap');
 
 /* ///////////////////////////////////////////////////////////////////// 
-//  01 - Global 
+//  Global 
 /////////////////////////////////////////////////////////////////////*/
 
 * {
@@ -61,7 +61,9 @@ h5,
 h6 {
   margin: 0 0 15px 0;
   color: #3A4F52;
-  font-family: 'Alegreya Sans';
+  font-family: 'Alegreya Sans',
+    sans-serif;
+
 }
 
 h1.naslov {
@@ -1691,7 +1693,8 @@ a {
 
 #header .logo,
 #header .toggleDrawer {
-  font-family: 'Alegreya SC';
+  font-family: 'Alegreya SC',
+    serif;
   color: white;
 }
 
@@ -1699,7 +1702,8 @@ a {
   font-size: 4em;
   margin-bottom: 15px;
   line-height: 1em;
-  font-family: 'Nixie One';
+  font-family: 'Nixie One',
+    cursive;
   color: white;
 }
 
@@ -1707,7 +1711,8 @@ a {
   font-size: 1.6em;
   color: #fff;
   line-height: 1em;
-  font-family: 'Alegreya SC';
+  font-family: 'Alegreya SC',
+    serif;
 }
 
 #header .bottom {
@@ -2430,7 +2435,8 @@ h5.naslov {
   font-size: 1.3em;
   color: #fff;
   line-height: 1em;
-  font-family: 'Alegreya SC';
+  font-family: 'Alegreya SC',
+    serif;
   display: inline;
 }
 
