@@ -1,0 +1,28 @@
+{
+  "name": "krstarenje-dubrovnikom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuk-danijela/krstarenje-dubrovnikom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuk-danijela/krstarenje-dubrovnikom/issues"
+  },
+  "homepage": "https://github.com/cuk-danijela/krstarenje-dubrovnikom#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-uncss": "^1.0.6"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "rename": "^1.0.4"
+  }
+}
