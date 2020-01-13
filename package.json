@@ -1,7 +1,7 @@
 {
   "name": "krstarenje-dubrovnikom",
   "version": "1.0.0",
-  "description": "",
+  "description": "Site about cruising in Dubrovnik",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
-    "gulp-uncss": "^1.0.6"
+    "gulp-install": "^1.1.0"
   },
   "dependencies": {
     "autoprefixer": "^9.7.3",
