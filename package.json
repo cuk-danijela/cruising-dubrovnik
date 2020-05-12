@@ -18,11 +18,11 @@
   "homepage": "https://github.com/cuk-danijela/krstarenje-dubrovnikom#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.2.0",
+    "gulp-clean-css": "^4.3.0",
     "gulp-install": "^1.1.0"
   },
   "dependencies": {
-    "autoprefixer": "^9.7.3",
+    "autoprefixer": "^9.7.6",
     "rename": "^1.0.4"
   }
 }
