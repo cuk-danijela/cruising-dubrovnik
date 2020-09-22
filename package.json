@@ -26,6 +26,7 @@
     "kind-of": "^6.0.3",
     "lodash.template": "^4.5.0",
     "minimist": "^1.2.5",
-    "rename": "^1.0.4"
+    "rename": "^1.0.4",
+    "yargs-parser": "^20.2.0"
   }
 }
