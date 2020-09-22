@@ -22,7 +22,7 @@
     "gulp-install": "^1.1.0"
   },
   "dependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.6",
     "kind-of": "^6.0.3",
     "lodash.template": "^4.5.0",
     "minimist": "^1.2.5",
