@@ -24,6 +24,7 @@
   "dependencies": {
     "autoprefixer": "^9.8.6",
     "browserslist": "^4.19.1",
+    "copy-props": "^3.0.1",
     "glob-parent": "^6.0.2",
     "hosted-git-info": "^4.1.0",
     "ini": "^2.0.0",
