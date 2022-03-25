@@ -30,7 +30,7 @@
     "ini": "^2.0.0",
     "kind-of": "^6.0.3",
     "lodash.template": "^4.5.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "path-parse": "^1.0.7",
     "postcss": "^8.4.5",
     "rename": "^1.0.4",
