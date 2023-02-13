@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cuk-danijela/krstarenje-dubrovnikom#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^3.9.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-install": "^1.1.0"
   },
@@ -25,7 +25,7 @@
     "autoprefixer": "^9.8.6",
     "browserslist": "^4.19.1",
     "copy-props": "^3.0.1",
-    "firebase": "^9.15.0",
+    "firebase": "^9.17.1",
     "glob-parent": "^6.0.2",
     "hosted-git-info": "^4.1.0",
     "ini": "^2.0.0",
